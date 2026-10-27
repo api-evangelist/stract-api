@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stract API is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://stract-api.com
+Stract API provides AI-powered document extraction, turning unstructured files like PDFs, scans, spreadsheets, and audio into structured data such as CSV or JSON. Users can upload documents, specify the data they need, and receive organized results quickly via a point‑and‑click UI or API integration. The platform serves lawyers, developers, marketers, researchers, and other professionals, offering customizable models, SOC 2 compliance, and pricing plans for various volumes.
+
+**Areas:** Company · AI · Document-Processing · Data-Extraction · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stract-api.com)
+- [Documentation](https://docs.stract-api.com)
+- [Getting started](https://stract-api.com/guide/quick-start-api/)
+- [API reference](https://stract-api.com/guide/)
+- [Pricing](https://stract-api.com/pricing/)
+- [Support](https://stract-api.com/contact/)
+- [Blog](https://stract-api.com/blog/)
+- [Terms of service](https://stract-api.com/terms/)
+- [Privacy policy](https://stract-api.com/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/stract-api/](https://apis.io/providers/stract-api/).
